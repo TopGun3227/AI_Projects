@@ -9,3 +9,6 @@ transformers (Hugging Face) – to access a powerful, free large language model
 sentence-transformers – for generating high-quality text embeddings with minimal setup
 faiss-cpu – Facebook AI’s fast, open-source vector search library, used as our vector store
 langchain – used only for its text-splitting utility, saving hours of manual parsing and regex work
+
+**Document Analysis**
+Document analysis refers to extracting, interpreting, and understanding the information contained within a document. Traditionally, this involved manual review or simple keyword-based techniques, but with the rise of Large Language Models (LLMs) like GPT and BERT, LLMs are now preferred for document analysis because they can comprehend context, generate summaries, answer questions, and identify key insights efficiently.
